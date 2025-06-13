@@ -1,0 +1,90 @@
+
+            CONFIGURACIÓN DEL ATAQUE:
+            Fecha y hora: 2025-06-06 15:51:17.364166
+            Patrón de email: si
+            Longitud máxima de password: 10
+            Caracteres incluidos: 
+              - Mayúsculas: True
+              - Minúsculas: True
+              - Dígitos: True
+              - Símbolos: True
+              - Espacios: True
+            [FAILED] Email: si | Password: a
+[FAILED] Email: si | Password: b
+[FAILED] Email: si | Password: c
+[FAILED] Email: si | Password: d
+[FAILED] Email: si | Password: e
+[FAILED] Email: si | Password: f
+[FAILED] Email: si | Password: g
+[FAILED] Email: si | Password: h
+[FAILED] Email: si | Password: i
+[FAILED] Email: si | Password: j
+[FAILED] Email: si | Password: k
+[FAILED] Email: si | Password: l
+[FAILED] Email: si | Password: m
+[FAILED] Email: si | Password: n
+[FAILED] Email: si | Password: o
+[FAILED] Email: si | Password: p
+[FAILED] Email: si | Password: q
+[FAILED] Email: si | Password: r
+[FAILED] Email: si | Password: s
+[FAILED] Email: si | Password: t
+[FAILED] Email: si | Password: u
+[FAILED] Email: si | Password: v
+[FAILED] Email: si | Password: w
+[FAILED] Email: si | Password: x
+[FAILED] Email: si | Password: y
+[FAILED] Email: si | Password: z
+[FAILED] Email: si | Password: A
+[FAILED] Email: si | Password: B
+[FAILED] Email: si | Password: C
+[FAILED] Email: si | Password: D
+[FAILED] Email: si | Password: E
+[FAILED] Email: si | Password: F
+[FAILED] Email: si | Password: G
+[FAILED] Email: si | Password: H
+[FAILED] Email: si | Password: I
+[FAILED] Email: si | Password: J
+[FAILED] Email: si | Password: K
+[FAILED] Email: si | Password: L
+[FAILED] Email: si | Password: M
+[FAILED] Email: si | Password: N
+[FAILED] Email: si | Password: O
+[FAILED] Email: si | Password: P
+[FAILED] Email: si | Password: Q
+[FAILED] Email: si | Password: R
+[FAILED] Email: si | Password: S
+[FAILED] Email: si | Password: T
+[FAILED] Email: si | Password: U
+[FAILED] Email: si | Password: V
+[FAILED] Email: si | Password: W
+[FAILED] Email: si | Password: X
+[FAILED] Email: si | Password: Y
+[FAILED] Email: si | Password: Z
+[FAILED] Email: si | Password: 0
+[FAILED] Email: si | Password: 1
+[FAILED] Email: si | Password: 2
+[FAILED] Email: si | Password: 3
+[FAILED] Email: si | Password: 4
+[FAILED] Email: si | Password: 5
+[FAILED] Email: si | Password: 6
+[FAILED] Email: si | Password: 7
+[FAILED] Email: si | Password: 8
+[FAILED] Email: si | Password: 9
+[FAILED] Email: si | Password: !
+[FAILED] Email: si | Password: "
+[FAILED] Email: si | Password: #
+[FAILED] Email: si | Password: $
+[FAILED] Email: si | Password: %
+[FAILED] Email: si | Password: &
+[FAILED] Email: si | Password: '
+[FAILED] Email: si | Password: (
+[FAILED] Email: si | Password: )
+[FAILED] Email: si | Password: *
+[FAILED] Email: si | Password: +
+[FAILED] Email: si | Password: ,
+[FAILED] Email: si | Password: -
+[FAILED] Email: si | Password: .
+[FAILED] Email: si | Password: /
+[FAILED] Email: si | Password: :
+[FAILED] Email: si | Password: ;
